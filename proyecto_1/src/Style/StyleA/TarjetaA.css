@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.Title{
+    font-family: "Castoro Titling", serif;
+    font-size: 35px;
+    color:rgb(255, 255, 255);
+}
+
+.Description{
+    font-family: "Lato", sans-serif;
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+}
+.Artist{
+    font-family: "Castoro Titling", serif;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+
+.Price{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.Imagen{
+ width: 200px;
+ height: 200px;
+ border-radius: 6px;
+}
+
+.Botones{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.Button {
+  cursor: pointer;
+  padding: 0;
+}
+
+.Button-icon {
+  width: 40px;
+  height: 40px;
+}
+
+
+.ButtonM {
+  cursor: pointer;
+  padding: 0;
+}
+
+.ButtonM-icon {
+  width: 40px;
+  height: 40px;
+}
+
+.ButtonN{
+  cursor: pointer;
+  padding: 0;
+}
+
+.ButtonN-icon {
+  width: 40px;
+  height: 40px;
+}
+
+
+
+.Centrar{
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    background: rgb(36, 36, 36);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 4px;
+    gap: 5px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    width: 100%; 
+} 
+
+.Centrar:hover {
+    color: #121212;
+    border-color: #1f1e1e;
+    box-shadow: #f8f7f7 0px 0px 5px 2px;
+}
+
+.Orga {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "artist": "Daft Punk",
+    "image": "https://cdn-images.dzcdn.net/images/artist/638e69b9caaf9f9f3f8826febea7b543/1900x1900-000000-81-0-0.jpg",
+    "listenersMonthly": "15.4M",
+    "topAlbum": "Discovery",
+    "topSong": "Get Lucky / One More Time"
+  },
+  {
+    "id": 2,
+    "artist": "Kanye West",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAR5gx7ARF_QfP0RUm6iGKcESKW2-eNlPH1qoolmPhuHOZytylSo3POSqS&s=10",
+    "listenersMonthly": "22.1M",
+    "topAlbum": "Graduation",
+    "topSong": "Stronger"
+  },
+  {
+    "id": 3,
+    "artist": "Kendrick Lamar",
+    "image": "https://cdn-images.dzcdn.net/images/artist/be0a7c550567f4af0ed202d7235b74d6/1900x1900-000000-81-0-0.jpg",
+    "listenersMonthly": "18.8M",
+    "topAlbum": "To Pimp a Butterfly",
+    "topSong": "HUMBLE."
+  },
+  {
+    "id": 4,
+    "artist": "The Strokes",
+    "image": "https://cdn-images.dzcdn.net/images/artist/88e8ecd06aae5cd69d414af57a67f339/1900x1900-000000-80-0-0.jpg",
+    "listenersMonthly": "8.2M",
+    "topAlbum": "Is This It",
+    "topSong": "Last Nite"
+  },
+  {
+    "id": 5,
+    "artist": "Marvin Gaye",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Marvin_Gaye_%281973%29.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "listenersMonthly": "19.5M",
+    "topAlbum": "What's Going On",
+    "topSong": "Ain't No Mountain High Enough"
+  },
+  {
+    "id": 6,
+    "artist": "Outkast",
+    "image": "https://www.billboard.com/wp-content/uploads/media/andre-3000-big-boi-outkast-tabernacle-billboard-1548.jpg",
+    "listenersMonthly": "16.8M",
+    "topAlbum": "Speakerboxxx / The Love Below",
+    "topSong": "Hey Ya!"
+  },
+  {
+    "id": 7,
+    "artist": "Luis Alberto Spinetta",
+    "image": "https://www.cultura.gob.ar/media/uploads/luis_alberto_spinetta.jpg",
+    "listenersMonthly": "3.1M",
+    "topAlbum": "Artaud",
+    "topSong": "Bajan"
+  },
+  {
+    "id": 8,
+    "artist": "Gustavo Cerati",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk5V6WNIizM94JWcRqPL16PIciUq1kgSub2bM4LHsLmTnbk83VbB8RNBLX&s=10",
+    "listenersMonthly": "6.4M",
+    "topAlbum": "Bocanada",
+    "topSong": "Crimen"
+  },
+  {
+    "id": 9,
+    "artist": "Caifanes",
+    "image": "https://www.nacion.com/resizer/v2/DALLYAOOUJEULL42INMPJ4F63Y.jpg?smart=true&auth=eb6a75936ed2543bb6b713c86f274e0f4e2d5ec6cdf6489b17541b9ebd9cd909&width=3328&height=4160",
+    "listenersMonthly": "5.9M",
+    "topAlbum": "El Silencio",
+    "topSong": "Afuera"
+  },
+  {
+    "id": 10,
+    "artist": "Tyler, The Creator",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTdkYzM4NDItMWUxMi00NzcwLWFjNjYtMGRhOWM4MmJkZDM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "listenersMonthly": "33.2M",
+    "topAlbum": "IGOR",
+    "topSong": "EARFQUAKE"
+  },
+  {
+    "id": 11,
+    "artist": "Death Grips",
+    "image": "https://media.pitchfork.com/photos/592c60eec0084474cd0c7181/master/pass/b5c3d177.jpg",
+    "listenersMonthly": "1.2M",
+    "topAlbum": "The Money Store",
+    "topSong": "Get Got"
+  },
+  {
+    "id": 12,
+    "artist": "Denzel Curry",
+    "image": "https://cdn-images.dzcdn.net/images/artist/f0d047c02138800e4921a46f4b72f995/1900x1900-000000-80-0-0.jpg",
+    "listenersMonthly": "7.5M",
+    "topAlbum": "TA13OO",
+    "topSong": "ULT"
+  },
+  {
+    "id": 13,
+    "artist": "Linkin Park",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Linkin_Park_-_From_Zero_Lead_Press_Photo_-_James_Minchin_III.jpg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original",
+    "listenersMonthly": "42.1M",
+    "topAlbum": "Hybrid Theory",
+    "topSong": "In the End"
+  },
+  {
+    "id": 14,
+    "artist": "Joji",
+    "image": "https://cdn-images.dzcdn.net/images/cover/63ff8d3ecdf658d156d34d40058442c1/0x1900-000000-80-0-0.jpg",
+    "listenersMonthly": "25.3M",
+    "topAlbum": "Nectar",
+    "topSong": "Glimpse of Us"
+  },
+  {
+    "id": 15,
+    "artist": "Rage Against The Machine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Rage_Against_The_Machine_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+    "listenersMonthly": "9.8M",
+    "topAlbum": "Rage Against The Machine",
+    "topSong": "Killing in the Name"
+  },
+  {
+    "id": 16,
+    "artist": "Drake",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMyG6HTcXlmyBfc9iH86jQbKRWJ9q9ZEeuYq3MT_IjRzhl_GxxX-u4kZA&s=10",
+    "listenersMonthly": "78.4M",
+    "topAlbum": "Views",
+    "topSong": "One Dance"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "Tittle": "ExMilitary",
+    "Artist": "Death Grips",
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a7e017bb5db1c5ae85cabad",
+    "description": "Exmilitary, también conocido como Ex Military, es el mixtape debut del grupo de hip hop experimental Death Grips.",
+    "price": 149.99,
+    "url": "https://www.ebay.com/itm/377439426893",
+    "urlM": "https://music.youtube.com/playlist?list=PL228FAD202E1D8335",
+    "urlN": "https://en.wikipedia.org/wiki/Exmilitary"
+  },
+  {
+    "id": 2,
+    "Tittle": "Discovery",
+    "Artist": "Daft Punk",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
+    "description": "Discovery es el segundo álbum de estudio del dúo francés de música electrónica Daft Punk, lanzado el 12 de marzo de 2001 por Virgin Records.",
+    "price": 52.17,
+    "url": "https://www.ebay.com/itm/287186112916",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_mz6eafmqdRHSaR4IwG0ll6J6rgv0_ZpGw",
+    "urlN": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)"
+  },
+  {
+    "id": 3,
+    "Tittle": "Be",
+    "Artist": "Common",
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c1e31e10c7a5b2ed2258e29",
+    "description": "Be es el sexto álbum de estudio del rapero estadounidense Common. Fue lanzado el 24 de mayo de 2005, por Geffen Records y GOOD Music.",
+    "price": 60.00,
+    "url": "https://www.ebay.com/itm/377421141262",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_mH_mCIUIhW9S18hASYpR8G9lIEPDup2gk",
+    "urlN": "https://en.wikipedia.org/wiki/Be_(Common_album)"
+  },
+  {
+    "id": 4,
+    "Tittle": "The College Dropout",
+    "Artist": "Kanye West",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Kanyewest_collegedropout.jpg/250px-Kanyewest_collegedropout.jpg",
+    "description": "The College Dropout es el álbum debut del rapero estadounidense Kanye West, lanzado el 10 de febrero de 2004 por Roc-A-Fella Records y Def Jam Recordings.",
+    "price": 35.00,
+    "url": "https://www.ebay.com/itm/117373135327",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_mH_mCIUIhW9S18hASYpR8G9lIEPDup2gk",
+    "urlN": "https://en.wikipedia.org/wiki/The_College_Dropout"
+  },
+  {
+    "id": 5,
+    "Tittle": "The Life of Pablo",
+    "Artist": "Kanye West",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/The_life_of_pablo_alternate.jpg",
+    "description": "The Life of Pablo es el séptimo álbum de estudio del rapero estadounidense Kanye West, lanzado el 14 de febrero de 2016 por GOOD Music y Def Jam Recordings.",
+    "price": 139.99,
+    "url": "https://www.ebay.com/itm/377430949041",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_kPR4FKADrZ1hZftipUfdMuBIup-mumHHE",
+    "urlN": "https://en.wikipedia.org/wiki/The_Life_of_Pablo"
+  },
+  {
+    "id": 6,
+    "Tittle": "To Pimp a Butterfly",
+    "Artist": "Kendrick Lamar",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kendrick_Lamar_-_To_Pimp_a_Butterfly.png",
+    "description": "To Pimp a Butterfly es el tercer álbum de estudio del rapero estadounidense Kendrick Lamar, lanzado el 15 de marzo de 2015 por Top Dawg Entertainment, Aftermath Entertainment y Interscope Records.",
+    "price": 13.99,
+    "url": "https://www.ebay.com/itm/144927948545",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_lnweRNCgBTHU2Wm-w6zlJX0hELCYSlZ2Y",
+    "urlN": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly"
+  },
+  {
+    "id": 7,
+    "Tittle": "Black on Both Sides",
+    "Artist": "Mos Def",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0f/MosDefBlackonBothSides.jpg",
+    "description": "Black on Both Sides es el álbum de estudio debut del hip-hopero estadounidense Mos Def, lanzado el 12 de octubre de 1999 por Rawkus Records.",
+    "price": 99.99,
+    "url": "https://www.ebay.com/itm/326180351597",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_lSxJFo0H9sdqAU_XjaExWLsOth3wgXPKA",
+    "urlN": "https://en.wikipedia.org/wiki/Black_on_Both_Sides"
+  },
+  {
+    "id": 8,
+    "Tittle": "Is This It",
+    "Artist": "The Strokes",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/The_Strokes_-_Is_This_It_cover.png/250px-The_Strokes_-_Is_This_It_cover.png",
+    "description": "Is This It es el álbum debut de la banda estadounidense The Strokes, lanzado el 30 de julio de 2001 por RCA Records.",
+    "price": 37.73,
+    "url": "https://www.ebay.com/itm/267608373054",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_kWgfDzid7Su1S_umKz2Z2BpR2SnkqiZxI",
+    "urlN": "https://en.wikipedia.org/wiki/Is_This_It"
+  },
+  {
+    "id": 9,
+    "Tittle": "Ten",
+    "Artist": "Pearl Jam",
+    "img": "https://store.rpmrecords.co/wp-content/uploads/2020/07/Pearl-Jam-TenLP.jpg",
+    "description": "Ten es el álbum debut de la banda de grunge estadounidense Pearl Jam, lanzado el 27 de agosto de 1991, por la discográfica Epic Records.",
+    "price": 31.16,
+    "url": "https://www.ebay.com/itm/144141296410",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_nCmmq03HsHVw9jrLUPm1SfKXIwuCQ1hXk",
+    "urlN": "https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)"
+  },
+  {
+    "id": 10,
+    "Tittle": "Graduation",
+    "Artist": "Kanye West",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/70/Graduation_%28album%29.jpg",
+    "description": "Graduation es el tercer álbum de estudio del rapero estadounidense Kanye West, lanzado el 11 de septiembre de 2007 por Roc-A-Fella Records y Def Jam Recordings.",
+    "price": 125.00,
+    "url": "https://www.ebay.com/itm/407170474497",
+    "urlM": "https://music.youtube.com/playlist?list=OLAK5uy_n4negEHWAKSsnUfvxnK-hbGuYASJ1IBa4",
+    "urlN": "https://en.wikipedia.org/wiki/Graduation_(album)"
+  }
+]

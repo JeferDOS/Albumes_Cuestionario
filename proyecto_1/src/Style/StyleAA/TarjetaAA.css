@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Castoro+Titling&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+.ArtistAA-title {
+    font-family: "Castoro Titling", serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.ListenersAA {
+    font-family: "Castoro Titling", serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.TopAlbumAA {
+    font-family: "Castoro Titling", serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.TopSongAA {
+    font-family: "Castoro Titling", serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    margin: 10px;
+}
+
+.ImagenAA {
+    width: 200px;
+    height: 200px;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+.CentrarAA {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: rgb(36, 36, 36);
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 4px;
+    gap: 5px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.CentrarAA:hover {
+    color: #121212;
+    border-color: #1f1e1e;
+    box-shadow: #f8f7f7 0px 0px 5px 2px;
+}
+
+.OrgaAA {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
